@@ -33,3 +33,11 @@ To run tests, run the following command
   php artisan serve
 ```
 
+
+## Features
+
+Menyusul...
+
+#
+### Created by :
+Muhamad Rifki Arisagas (5520120073)

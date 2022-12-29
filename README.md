@@ -3,7 +3,7 @@
 
 A Simple Information System Laravel Project.
 
-
+![alt text](https://github.com/rifkisagas/Book-Management-Laravel/blob/main/readme/view.png?raw=true)
 ## Installation
 
 Install the project
@@ -40,8 +40,6 @@ To run tests, run the following command
 - The uploaded data will be viewed in the index view
 - The information of the book uploaded will also viewed in the index
 
-
-
-#
+![alt text](https://github.com/rifkisagas/Book-Management-Laravel/blob/main/readme/fantasialaravelia.gif?raw=true)#
 ### Created by :
 Muhamad Rifki Arisagas (5520120073)

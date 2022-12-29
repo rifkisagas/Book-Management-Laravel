@@ -1,12 +1,12 @@
 
-# Book management information system
+# Fantasia Laravelia
 
-Simple Information System Laravel Project.
+A Simple Information System Laravel Project.
 
 
 ## Installation
 
-Install my-project with npm
+Install the project
 
 ```bash
   git clone https://github.com/rifkisagas/Book-Management-Laravel
@@ -36,7 +36,11 @@ To run tests, run the following command
 
 ## Features
 
-Menyusul...
+- Simple and Magical UI in the index view
+- The uploaded data will be viewed in the index view
+- The information of the book uploaded will also viewed in the index
+
+
 
 #
 ### Created by :
